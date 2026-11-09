@@ -1,0 +1,29 @@
+[project]
+site_name = "BioImage Index"
+site_description = "A federated, image-level search layer for public bioimaging data."
+# TODO: set to your final Pages URL, e.g. https://bioimage-index.github.io/
+site_url = "https://chili-chiu.github.io/bioimage-index/"
+repo_url = "https://github.com/bioimage-index"
+
+nav = [
+  "index.md",
+  "phase-1.md",
+  "partners.md",
+  "roadmap.md",
+  "get-involved.md",
+]
+
+[project.theme]
+features = [
+  "navigation.instant",
+]
+
+[[project.theme.palette]]
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+scheme = "slate"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to light mode"
