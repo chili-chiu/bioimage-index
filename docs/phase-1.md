@@ -15,10 +15,6 @@ What we are building, and what you will be able to review. Phase 1 runs 2026–2
 !!! info "About licenses"
     Licenses shown are the current proposal and are being confirmed with partners. Image-level metadata is proposed under CC0, and each record keeps the license named by its repository of origin.
 
-## Out of scope for Phase 1
-
-Full metadata harmonization, consolidated storage, and automated harvesting. These are deliberate boundaries, not oversights.
-
 ## Success criteria for moving to Phase 2
 
 - Image-level data from all five founding resources
