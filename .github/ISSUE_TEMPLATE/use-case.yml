@@ -1,0 +1,30 @@
+name: Share a use case
+description: Tell us what you would want to search for across public bioimaging data.
+title: "Use case: "
+labels: ["use-case"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping shape BioImage Index. Short answers are fine, and you can leave any field blank.
+  - type: textarea
+    id: search
+    attributes:
+      label: What would you like to search for?
+      description: Describe the images you are trying to find, in your own words.
+      placeholder: e.g. Live-cell time-lapse movies that already come with segmentation labels
+    validations:
+      required: true
+  - type: textarea
+    id: today
+    attributes:
+      label: How do you find these images today, and what is hard about it?
+  - type: textarea
+    id: trust
+    attributes:
+      label: What must a result show before you would trust or use it?
+      description: For example license, imaging modality, resolution, access method or file format.
+  - type: textarea
+    id: other
+    attributes:
+      label: Anything else we should know?
