@@ -4,10 +4,10 @@
 
 BioImage Index is a federated, image-level search layer for public bioimaging data. Repositories keep their data. The index helps people find which images exist and where to get them.
 
-[Share a use case](https://github.com/chili-chiu/bioimage-index/issues/new){ .md-button .md-button--primary }
+[Share a use case](https://github.com/chili-chiu/bioimage-index/issues/new?template=use-case.yml){ .md-button .md-button--primary }
 [Follow on GitHub](https://github.com/chili-chiu/bioimage-index){ .md-button }
 
-*Open project · Phase 1 · Building in public. We are looking for use cases and repositories to help shape the schema and protocol.*
+*Open project · Phase 1 · Building in public. We are collecting use cases to shape the schema and protocol.*
 
 ## The gap
 
@@ -37,4 +37,4 @@ Illustrative searches. Are these the right questions?
 - Every public image of a given tissue, whichever repository holds it
 - Images I can stream directly in OME-Zarr, without downloading a whole dataset
 
-Have a different question? [Tell us](get-involved.md).
+Have a different question? [Share a use case](https://github.com/chili-chiu/bioimage-index/issues/new?template=use-case.yml).
