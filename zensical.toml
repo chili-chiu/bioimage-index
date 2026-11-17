@@ -9,7 +9,6 @@ nav = [
   "index.md",
   "partners.md",
   "roadmap.md",
-  "get-involved.md",
 ]
 
 [project.theme]
